@@ -72,3 +72,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Starter copy/Intermediate/CachedAssetRegistry_0.bin
+
+Starter copy/Intermediate/ReimportCache/3688439234.bin
+
+Starter copy/Saved/Telemetry/Telemetry.json
+
+*.json
